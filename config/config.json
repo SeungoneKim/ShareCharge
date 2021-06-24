@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "sr7418",
+    "password": "wntpwns12@",
+    "database": "sharecharge",
+    "host": "34.64.183.74",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
